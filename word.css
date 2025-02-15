@@ -2,9 +2,10 @@
     width: 90%;
     height: 35px;
     border-radius: 5px;
+    padding: 10px;
 }
 .size{
-    width: 90%;
+    width: 100%;
 }
 .form-control{
     width: 100%;
